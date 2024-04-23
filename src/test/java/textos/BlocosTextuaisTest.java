@@ -1,7 +1,9 @@
+package textos;
+
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-public class BlocosTextuais {
+public class BlocosTextuaisTest {
 
     /*
     Feature possivel apos java 15
